@@ -1,0 +1,28 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "Learn how to use Git, the code versioning tool, and Github, a collaborate platform for hosting repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmcdesign/git-tutorial.git"
+  },
+  "keywords": [
+    "git",
+    "tutorial",
+    "test",
+    "javascript",
+    "learn",
+    "node",
+    "nodejs"
+  ],
+  "author": "Vanessa Coles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmcdesign/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/vmcdesign/git-tutorial#readme"
+}
